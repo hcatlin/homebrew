@@ -16,7 +16,6 @@ class Ffmpeg <Formula
   depends_on 'faad2' => :optional
   depends_on 'lame' => :optional
   depends_on 'theora' => :optional
-  depends_on 'libvorbis' => :optional
   depends_on 'libogg' => :optional
 
   def install
